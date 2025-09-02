@@ -1,2 +1,2 @@
 # CCTR691-test
-class labs
+class labs more content
